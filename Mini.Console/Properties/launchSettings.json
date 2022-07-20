@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mini.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "/o=inicial.txt /d=final.txt"
+    }
+  }
+}

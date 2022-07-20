@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.Properties.Resources.resources
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Console.exe
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Console.deps.json
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Console.runtimeconfig.json
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Console.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Console.pdb
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\refint\Mini.Console.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.pdb
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.genruntimeconfig.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\ref\Mini.Console.dll
