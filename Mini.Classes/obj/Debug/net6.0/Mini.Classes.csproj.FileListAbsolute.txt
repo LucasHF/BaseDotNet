@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\bin\Debug\net6.0\Mini.Classes.deps.json
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\bin\Debug\net6.0\Mini.Classes.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\bin\Debug\net6.0\Mini.Classes.pdb
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\refint\Mini.Classes.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\Mini.Classes.pdb
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Classes\obj\Debug\net6.0\ref\Mini.Classes.dll

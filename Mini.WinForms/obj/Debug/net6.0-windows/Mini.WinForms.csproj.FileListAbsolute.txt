@@ -1,13 +1,8 @@
-C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Console.deps.json
-C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Console.runtimeconfig.json
-C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Console.exe
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.WinForms.exe
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.WinForms.deps.json
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.WinForms.runtimeconfig.json
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.WinForms.dll
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.WinForms.pdb
-C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Console.dll
-C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Console.pdb
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\Mini.WinForms.csproj.AssemblyReference.cache
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\Mini.WinForms.Form1.resources
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\Mini.WinForms.csproj.GenerateResource.cache
@@ -21,3 +16,5 @@ C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\Mini.WinForms.pdb
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\Mini.WinForms.genruntimeconfig.cache
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\obj\Debug\net6.0-windows\ref\Mini.WinForms.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Classes.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.WinForms\bin\Debug\net6.0-windows\Mini.Classes.pdb

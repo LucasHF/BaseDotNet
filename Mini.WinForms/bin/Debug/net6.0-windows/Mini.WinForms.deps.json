@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "Mini.WinForms/1.0.0": {
         "dependencies": {
-          "Mini.Console": "1.0.0"
+          "Mini.Classes": "1.0.0"
         },
         "runtime": {
           "Mini.WinForms.dll": {}
         }
       },
-      "Mini.Console/1.0.0": {
+      "Mini.Classes/1.0.0": {
         "runtime": {
-          "Mini.Console.dll": {}
+          "Mini.Classes.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Mini.Console/1.0.0": {
+    "Mini.Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

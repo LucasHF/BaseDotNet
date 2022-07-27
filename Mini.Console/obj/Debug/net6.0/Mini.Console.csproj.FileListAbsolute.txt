@@ -15,3 +15,6 @@ C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.pdb
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.genruntimeconfig.cache
 C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\ref\Mini.Console.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Classes.dll
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\bin\Debug\net6.0\Mini.Classes.pdb
+C:\Users\lucas\Documents\Projetos\Projetos BaseVS\Mini.Console\obj\Debug\net6.0\Mini.Console.csproj.CopyComplete

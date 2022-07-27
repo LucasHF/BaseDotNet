@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "Mini.Console/1.0.0": {
+      "Mini.Classes/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Mini.Console.dll": {}
+          "bin/placeholder/Mini.Classes.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Mini.Console.dll": {}
+          "bin/placeholder/Mini.Classes.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Mini.Console/1.0.0": {
+    "Mini.Classes/1.0.0": {
       "type": "project",
-      "path": "../Mini.Console/Mini.Console.csproj",
-      "msbuildProject": "../Mini.Console/Mini.Console.csproj"
+      "path": "../Mini.Classes/Mini.Classes.csproj",
+      "msbuildProject": "../Mini.Classes/Mini.Classes.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "Mini.Console >= 1.0.0"
+      "Mini.Classes >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj": {
-              "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj"
+            "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj"
             }
           }
         }

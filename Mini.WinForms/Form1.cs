@@ -1,3 +1,5 @@
+using Mini.Classes;
+
 namespace Mini.WinForms
 {
     public partial class Form1 : Form
@@ -14,7 +16,7 @@ namespace Mini.WinForms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.Program.Minimalizar(new string[] { "/o=" + Origem.Text, "/d=" + Destino.Text });
+            Minificador.Executar(new string[] { "/o=" + Origem.Text, "/d=" + Destino.Text });
         }
     }
 }

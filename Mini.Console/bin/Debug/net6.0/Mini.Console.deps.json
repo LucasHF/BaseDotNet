@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Mini.Console/1.0.0": {
+        "dependencies": {
+          "Mini.Classes": "1.0.0"
+        },
         "runtime": {
           "Mini.Console.dll": {}
+        }
+      },
+      "Mini.Classes/1.0.0": {
+        "runtime": {
+          "Mini.Classes.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Mini.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mini.Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

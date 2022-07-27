@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Mini.Console\Mini.Console.csproj" />
+    <ProjectReference Include="..\Mini.Classes\Mini.Classes.csproj" />
   </ItemGroup>
 
 </Project>

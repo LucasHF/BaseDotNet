@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Mini.Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Mini.Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mini.Classes.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Mini.Classes/1.0.0": {
+      "type": "project",
+      "path": "../Mini.Classes/Mini.Classes.csproj",
+      "msbuildProject": "../Mini.Classes/Mini.Classes.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Mini.Classes >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\lucas\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

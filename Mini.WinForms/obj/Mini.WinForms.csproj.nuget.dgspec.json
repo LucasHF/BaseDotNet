@@ -4,14 +4,14 @@
     "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.WinForms\\Mini.WinForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj": {
+    "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj",
-        "projectName": "Mini.Console",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj",
+        "projectName": "Mini.Classes",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -82,8 +82,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Console\\Mini.Console.csproj"
+              "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\Projetos\\Projetos BaseVS\\Mini.Classes\\Mini.Classes.csproj"
               }
             }
           }

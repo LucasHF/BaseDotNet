@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini.Console", "Mini.Console\Mini.Console.csproj", "{7852E5D8-B3EC-4E10-BC80-B11629638265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini.WinForms", "Mini.WinForms\Mini.WinForms.csproj", "{97CC2D67-BFB8-4709-B1E4-481366604635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini.WinForms", "Mini.WinForms\Mini.WinForms.csproj", "{97CC2D67-BFB8-4709-B1E4-481366604635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini.Classes", "Mini.Classes\Mini.Classes.csproj", "{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{97CC2D67-BFB8-4709-B1E4-481366604635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97CC2D67-BFB8-4709-B1E4-481366604635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97CC2D67-BFB8-4709-B1E4-481366604635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
