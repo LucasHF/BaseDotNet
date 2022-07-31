@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini.Console", "Mini.Consol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini.WinForms", "Mini.WinForms\Mini.WinForms.csproj", "{97CC2D67-BFB8-4709-B1E4-481366604635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini.Classes", "Mini.Classes\Mini.Classes.csproj", "{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini.Classes", "Mini.Classes\Mini.Classes.csproj", "{743E06A8-7E1C-45DE-8A30-2585A6E1C4B2}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Mini.Shared", "Mini.Shared\Mini.Shared.shproj", "{D3ED200A-1F8B-4602-ADA6-7C4F213F3D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,5 +35,9 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E019AC25-281C-48B1-BA16-02980D6C95CE}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Mini.Shared\Mini.Shared.projitems*{743e06a8-7e1c-45de-8a30-2585a6e1c4b2}*SharedItemsImports = 5
+		Mini.Shared\Mini.Shared.projitems*{d3ed200a-1f8b-4602-ada6-7c4f213f3d79}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal
